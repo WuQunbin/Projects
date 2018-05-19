@@ -1,13 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="JspProject:war exploded" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06294ab-6641-4ea9-aa49-66aa76ce9351" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="e0ae4398-e66a-4829-8c76-da5bd681b7fc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/Bank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/CashRecord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/City.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/Course.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/ExchangeCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/ExchangeRecord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/Forum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/MoneyRecord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/NewMsg.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/PayRecord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/Province.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/Section.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/Syslog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/Teacher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/TeacherGrade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/UserCourseEval.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/mapper/UsersMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/test/com/gs/testDemo/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/gs/bean/Users.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mapper/UsersMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/gs/testDemo/Test.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/JspProject_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/JspProject_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JspProject.iml" afterPath="$PROJECT_DIR$/JspProject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/gs/bean/Users.java" afterPath="$PROJECT_DIR$/src/main/java/com/gs/bean/Users.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/gs/dao/UsersDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/gs/dao/UsersDAO.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,97 +45,89 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <expand />
-    <select />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Users.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Users.java">
+      <file leaf-file-name="PayRecord.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/PayRecord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="119">
+              <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Province.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Province.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/gs/testDemo/Test.java">
+      <file leaf-file-name="Section.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Section.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="119">
+              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Syslog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Syslog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               <folding>
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jsp_project.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documents/jsp_project.sql">
+      <file leaf-file-name="Teacher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5678">
-              <caret line="334" column="44" lean-forward="false" selection-start-line="323" selection-start-column="2" selection-end-line="334" selection-end-column="44" />
+            <state relative-caret-position="119">
+              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeacherGrade.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/TeacherGrade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserCourseEval.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/UserCourseEval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding>
-                <marker date="1525531285835" expanded="true" signature="0:291" ph="/* Navicat M... " />
-                <marker date="1525531285835" expanded="true" signature="412:439" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="441:614" ph="CREATE TABLE... bank" />
-                <marker date="1525531285835" expanded="true" signature="800:834" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="836:1299" ph="CREATE TABLE... cash_record" />
-                <marker date="1525531285835" expanded="true" signature="1485:1512" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="1514:1728" ph="CREATE TABLE... city" />
-                <marker date="1525531285835" expanded="true" signature="1909:1938" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="1940:2673" ph="CREATE TABLE... course" />
-                <marker date="1525531285835" expanded="true" signature="2863:2899" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="2901:3370" ph="CREATE TABLE... exchange_code" />
-                <marker date="1525531285835" expanded="true" signature="3569:3607" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="3609:3939" ph="CREATE TABLE... exchange_record" />
-                <marker date="1525531285835" expanded="true" signature="4130:4158" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="4160:4541" ph="CREATE TABLE... forum" />
-                <marker date="1525531285835" expanded="true" signature="4724:4754" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="4756:5141" ph="CREATE TABLE... manager" />
-                <marker date="1525531285835" expanded="true" signature="5331:5366" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="5368:5627" ph="CREATE TABLE... money_record" />
-                <marker date="1525531285835" expanded="true" signature="5817:5847" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="5849:6376" ph="CREATE TABLE... new_msg" />
-                <marker date="1525531285835" expanded="true" signature="6564:6597" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="6599:6986" ph="CREATE TABLE... pay_record" />
-                <marker date="1525531285835" expanded="true" signature="7175:7206" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="7208:7396" ph="CREATE TABLE... province" />
-                <marker date="1525531285835" expanded="true" signature="7582:7612" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="7614:8122" ph="CREATE TABLE... section" />
-                <marker date="1525531285835" expanded="true" signature="8306:8335" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="8337:8636" ph="CREATE TABLE... syslog" />
-                <marker date="1525531285835" expanded="true" signature="8820:8850" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="8852:9455" ph="CREATE TABLE... teacher" />
-                <marker date="1525531285835" expanded="true" signature="9646:9682" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="9684:9915" ph="CREATE TABLE... teacher_grade" />
-                <marker date="1525531285835" expanded="true" signature="10104:10132" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="10134:10746" ph="CREATE TABLE... users" />
-                <marker date="1525531285835" expanded="true" signature="10938:10977" ph="DROP TABLE I... " />
-                <marker date="1525531285835" expanded="true" signature="10979:11392" ph="CREATE TABLE... user_course_eval" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UsersMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UsersMapper.xml">
+      <file leaf-file-name="Users.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Users.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -115,8 +136,8 @@
       <file leaf-file-name="UsersDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/dao/UsersDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="85">
+              <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -131,6 +152,21 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Author</find>
+      <find>Description</find>
+      <find>Date</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>author</replace>
+      <replace>description</replace>
+      <replace>date</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -139,14 +175,30 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/config/jdbc.properties" />
-        <option value="$PROJECT_DIR$/src/main/resources/config/springmvc.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/Users.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/config/logback.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/mapper/UsersMapper.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/controller/GeneratorSqlmap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/Bank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/CashRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/City.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/ExchangeCode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/ExchangeRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/Forum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/MoneyRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/NewMsg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/PayRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/Province.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/Section.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/Syslog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/UserCourseEval.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/Users.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/dao/UsersDAO.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/gs/testDemo/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/Manager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gs/bean/TeacherGrade.java" />
       </list>
     </option>
   </component>
@@ -168,13 +220,6 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -182,7 +227,23 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JspProject Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JspProject Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-14" />
     <option name="width" value="1382" />
     <option name="height" value="735" />
@@ -203,6 +264,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -218,10 +280,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,6 +324,13 @@
               <item name="JspProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JspProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JspProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -273,7 +339,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="gs" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JspProject" type="b2602c69:ProjectViewProjectNode" />
@@ -281,8 +347,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="gs" type="462c0819:PsiDirectoryNode" />
-              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JspProject" type="b2602c69:ProjectViewProjectNode" />
@@ -299,10 +365,18 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JspProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JspProject" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,28 +387,20 @@
     <property name="node.js.selected.package.eslint" value="" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.standard" value="" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2735632" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Users\GitProject\JspProject\src\main\resources\mapper" />
-      <recent name="E:\Users\GitProject\JspProject\src\main\resources\config" />
-      <recent name="E:\Users\GitProject\JspProject\src\main\java\com\gs\dao" />
-      <recent name="E:\Users\GitProject\JspProject\src\main\resources\com.gs.config" />
-      <recent name="E:\Users\GitProject\JspProject\src\main\resources\com.gs.mapper" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.gs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Users\GitProject\JspProject\src\main\resources\com.gs" />
-      <recent name="E:\Users\GitProject\JspProject\src\main\webapp" />
-      <recent name="E:\Users\GitProject\JspProject\src\main\resources" />
-      <recent name="E:\Users\GitProject\JspProject\src\main\resources\config" />
+      <recent name="E:\Users\Projects\JspProject\src\main\resources\mapper" />
+      <recent name="E:\Users\Projects\JspProject\src\main\java\com\gs\controller" />
+      <recent name="E:\Users\Projects\JspProject\target\JspProject\WEB-INF\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Users\Projects\JspProject\src\main\resources\config" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -349,15 +415,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.24">
+    <configuration name="GeneratorSqlmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.gs.testDemo.*" />
+          <option name="PATTERN" value="com.gs.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.gs.testDemo.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.gs.controller.GeneratorSqlmap" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -380,7 +446,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JspProject_3" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JspProject_4" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -389,7 +455,7 @@
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="64234" />
+        <option name="DEBUG_PORT" value="56757" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -524,11 +590,11 @@
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 8.5.24" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GeneratorSqlmap" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GeneratorSqlmap" />
       </list>
     </recent_temporary>
   </component>
@@ -540,27 +606,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a06294ab-6641-4ea9-aa49-66aa76ce9351" name="Default" comment="" />
-      <created>1525522841666</created>
+      <changelist id="e0ae4398-e66a-4829-8c76-da5bd681b7fc" name="Default" comment="" />
+      <created>1526373948509</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1525522841666</updated>
-      <workItem from="1525522847010" duration="8547000" />
-      <workItem from="1525580227325" duration="4880000" />
-      <workItem from="1525788974273" duration="1382000" />
+      <updated>1526373948509</updated>
+      <workItem from="1526373950734" duration="3572000" />
+      <workItem from="1526477528010" duration="4335000" />
+      <workItem from="1526558709925" duration="1212000" />
+      <workItem from="1526651943467" duration="1158000" />
+      <workItem from="1526701236446" duration="8488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14809000" />
+    <option name="totallyTimeSpent" value="18765000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="0" width="1382" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38731217" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294893" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2553542" sideWeight="0.49394855" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -569,17 +638,18 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19699499" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294893" sideWeight="0.49394855" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31466228" sideWeight="0.84871405" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27512357" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24508321" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.49394855" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -587,109 +657,248 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交创建好的javabean" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交创建好的javabean" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Users.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="1" column="115" lean-forward="false" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="115" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/documents/jsp_project.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5678">
-          <caret line="334" column="44" lean-forward="false" selection-start-line="323" selection-start-column="2" selection-end-line="334" selection-end-column="44" />
+        <state relative-caret-position="629">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
-            <marker date="1525531285835" expanded="true" signature="0:291" ph="/* Navicat M... " />
-            <marker date="1525531285835" expanded="true" signature="412:439" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="441:614" ph="CREATE TABLE... bank" />
-            <marker date="1525531285835" expanded="true" signature="800:834" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="836:1299" ph="CREATE TABLE... cash_record" />
-            <marker date="1525531285835" expanded="true" signature="1485:1512" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="1514:1728" ph="CREATE TABLE... city" />
-            <marker date="1525531285835" expanded="true" signature="1909:1938" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="1940:2673" ph="CREATE TABLE... course" />
-            <marker date="1525531285835" expanded="true" signature="2863:2899" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="2901:3370" ph="CREATE TABLE... exchange_code" />
-            <marker date="1525531285835" expanded="true" signature="3569:3607" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="3609:3939" ph="CREATE TABLE... exchange_record" />
-            <marker date="1525531285835" expanded="true" signature="4130:4158" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="4160:4541" ph="CREATE TABLE... forum" />
-            <marker date="1525531285835" expanded="true" signature="4724:4754" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="4756:5141" ph="CREATE TABLE... manager" />
-            <marker date="1525531285835" expanded="true" signature="5331:5366" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="5368:5627" ph="CREATE TABLE... money_record" />
-            <marker date="1525531285835" expanded="true" signature="5817:5847" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="5849:6376" ph="CREATE TABLE... new_msg" />
-            <marker date="1525531285835" expanded="true" signature="6564:6597" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="6599:6986" ph="CREATE TABLE... pay_record" />
-            <marker date="1525531285835" expanded="true" signature="7175:7206" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="7208:7396" ph="CREATE TABLE... province" />
-            <marker date="1525531285835" expanded="true" signature="7582:7612" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="7614:8122" ph="CREATE TABLE... section" />
-            <marker date="1525531285835" expanded="true" signature="8306:8335" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="8337:8636" ph="CREATE TABLE... syslog" />
-            <marker date="1525531285835" expanded="true" signature="8820:8850" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="8852:9455" ph="CREATE TABLE... teacher" />
-            <marker date="1525531285835" expanded="true" signature="9646:9682" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="9684:9915" ph="CREATE TABLE... teacher_grade" />
-            <marker date="1525531285835" expanded="true" signature="10104:10132" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="10134:10746" ph="CREATE TABLE... users" />
-            <marker date="1525531285835" expanded="true" signature="10938:10977" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="10979:11392" ph="CREATE TABLE... user_course_eval" />
+            <marker date="1526048642370" expanded="true" signature="0:291" ph="/* Navicat M... " />
+            <marker date="1526048642370" expanded="true" signature="412:439" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="441:614" ph="CREATE TABLE... bank" />
+            <marker date="1526048642370" expanded="true" signature="800:834" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="836:1299" ph="CREATE TABLE... cash_record" />
+            <marker date="1526048642370" expanded="true" signature="1485:1512" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="1514:1728" ph="CREATE TABLE... city" />
+            <marker date="1526048642370" expanded="true" signature="1909:1938" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="1940:2673" ph="CREATE TABLE... course" />
+            <marker date="1526048642370" expanded="true" signature="2863:2899" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="2901:3370" ph="CREATE TABLE... exchange_code" />
+            <marker date="1526048642370" expanded="true" signature="3569:3607" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="3609:3939" ph="CREATE TABLE... exchange_record" />
+            <marker date="1526048642370" expanded="true" signature="4130:4158" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="4160:4541" ph="CREATE TABLE... forum" />
+            <marker date="1526048642370" expanded="true" signature="4724:4754" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="4756:5141" ph="CREATE TABLE... manager" />
+            <marker date="1526048642370" expanded="true" signature="5331:5366" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="5368:5627" ph="CREATE TABLE... money_record" />
+            <marker date="1526048642370" expanded="true" signature="5817:5847" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="5849:6376" ph="CREATE TABLE... new_msg" />
+            <marker date="1526048642370" expanded="true" signature="6564:6597" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="6599:6986" ph="CREATE TABLE... pay_record" />
+            <marker date="1526048642370" expanded="true" signature="7175:7206" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="7208:7396" ph="CREATE TABLE... province" />
+            <marker date="1526048642370" expanded="true" signature="7582:7612" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="7614:8122" ph="CREATE TABLE... section" />
+            <marker date="1526048642370" expanded="true" signature="8306:8335" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="8337:8636" ph="CREATE TABLE... syslog" />
+            <marker date="1526048642370" expanded="true" signature="8820:8850" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="8852:9455" ph="CREATE TABLE... teacher" />
+            <marker date="1526048642370" expanded="true" signature="9646:9682" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="9684:9915" ph="CREATE TABLE... teacher_grade" />
+            <marker date="1526048642370" expanded="true" signature="10104:10132" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="10134:10746" ph="CREATE TABLE... users" />
+            <marker date="1526048642370" expanded="true" signature="10938:10977" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="10979:11392" ph="CREATE TABLE... user_course_eval" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UsersMapper.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="3349">
+          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/dao/UsersDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/controller/GeneratorSqlmap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="68">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/spring-mybatis.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="646">
+          <caret line="38" column="65" lean-forward="false" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/logback.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/generatorConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="204">
+          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/config/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="54" lean-forward="false" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
+          <caret line="1" column="115" lean-forward="false" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3349">
+          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="65" lean-forward="false" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/controller/GeneratorSqlmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Users.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UsersMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="54" lean-forward="false" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/jsp_project.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <marker date="1526048642370" expanded="true" signature="0:291" ph="/* Navicat M... " />
+            <marker date="1526048642370" expanded="true" signature="412:439" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="441:614" ph="CREATE TABLE... bank" />
+            <marker date="1526048642370" expanded="true" signature="800:834" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="836:1299" ph="CREATE TABLE... cash_record" />
+            <marker date="1526048642370" expanded="true" signature="1485:1512" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="1514:1728" ph="CREATE TABLE... city" />
+            <marker date="1526048642370" expanded="true" signature="1909:1938" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="1940:2673" ph="CREATE TABLE... course" />
+            <marker date="1526048642370" expanded="true" signature="2863:2899" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="2901:3370" ph="CREATE TABLE... exchange_code" />
+            <marker date="1526048642370" expanded="true" signature="3569:3607" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="3609:3939" ph="CREATE TABLE... exchange_record" />
+            <marker date="1526048642370" expanded="true" signature="4130:4158" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="4160:4541" ph="CREATE TABLE... forum" />
+            <marker date="1526048642370" expanded="true" signature="4724:4754" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="4756:5141" ph="CREATE TABLE... manager" />
+            <marker date="1526048642370" expanded="true" signature="5331:5366" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="5368:5627" ph="CREATE TABLE... money_record" />
+            <marker date="1526048642370" expanded="true" signature="5817:5847" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="5849:6376" ph="CREATE TABLE... new_msg" />
+            <marker date="1526048642370" expanded="true" signature="6564:6597" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="6599:6986" ph="CREATE TABLE... pay_record" />
+            <marker date="1526048642370" expanded="true" signature="7175:7206" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="7208:7396" ph="CREATE TABLE... province" />
+            <marker date="1526048642370" expanded="true" signature="7582:7612" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="7614:8122" ph="CREATE TABLE... section" />
+            <marker date="1526048642370" expanded="true" signature="8306:8335" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="8337:8636" ph="CREATE TABLE... syslog" />
+            <marker date="1526048642370" expanded="true" signature="8820:8850" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="8852:9455" ph="CREATE TABLE... teacher" />
+            <marker date="1526048642370" expanded="true" signature="9646:9682" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="9684:9915" ph="CREATE TABLE... teacher_grade" />
+            <marker date="1526048642370" expanded="true" signature="10104:10132" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="10134:10746" ph="CREATE TABLE... users" />
+            <marker date="1526048642370" expanded="true" signature="10938:10977" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="10979:11392" ph="CREATE TABLE... user_course_eval" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Bank.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UsersMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -701,90 +910,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/spring-mybatis.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/GeneratorSqlmap.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-          <folding>
-            <element signature="e#1076#1095#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="8" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Users.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="17">
+          <caret line="1" column="115" lean-forward="false" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="115" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documents/jsp_project.sql">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/generatorConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5678">
-          <caret line="334" column="44" lean-forward="true" selection-start-line="323" selection-start-column="2" selection-end-line="334" selection-end-column="44" />
-          <folding>
-            <marker date="1525531285835" expanded="true" signature="0:291" ph="/* Navicat M... " />
-            <marker date="1525531285835" expanded="true" signature="412:439" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="441:614" ph="CREATE TABLE... bank" />
-            <marker date="1525531285835" expanded="true" signature="800:834" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="836:1299" ph="CREATE TABLE... cash_record" />
-            <marker date="1525531285835" expanded="true" signature="1485:1512" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="1514:1728" ph="CREATE TABLE... city" />
-            <marker date="1525531285835" expanded="true" signature="1909:1938" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="1940:2673" ph="CREATE TABLE... course" />
-            <marker date="1525531285835" expanded="true" signature="2863:2899" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="2901:3370" ph="CREATE TABLE... exchange_code" />
-            <marker date="1525531285835" expanded="true" signature="3569:3607" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="3609:3939" ph="CREATE TABLE... exchange_record" />
-            <marker date="1525531285835" expanded="true" signature="4130:4158" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="4160:4541" ph="CREATE TABLE... forum" />
-            <marker date="1525531285835" expanded="true" signature="4724:4754" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="4756:5141" ph="CREATE TABLE... manager" />
-            <marker date="1525531285835" expanded="true" signature="5331:5366" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="5368:5627" ph="CREATE TABLE... money_record" />
-            <marker date="1525531285835" expanded="true" signature="5817:5847" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="5849:6376" ph="CREATE TABLE... new_msg" />
-            <marker date="1525531285835" expanded="true" signature="6564:6597" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="6599:6986" ph="CREATE TABLE... pay_record" />
-            <marker date="1525531285835" expanded="true" signature="7175:7206" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="7208:7396" ph="CREATE TABLE... province" />
-            <marker date="1525531285835" expanded="true" signature="7582:7612" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="7614:8122" ph="CREATE TABLE... section" />
-            <marker date="1525531285835" expanded="true" signature="8306:8335" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="8337:8636" ph="CREATE TABLE... syslog" />
-            <marker date="1525531285835" expanded="true" signature="8820:8850" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="8852:9455" ph="CREATE TABLE... teacher" />
-            <marker date="1525531285835" expanded="true" signature="9646:9682" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="9684:9915" ph="CREATE TABLE... teacher_grade" />
-            <marker date="1525531285835" expanded="true" signature="10104:10132" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="10134:10746" ph="CREATE TABLE... users" />
-            <marker date="1525531285835" expanded="true" signature="10938:10977" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="10979:11392" ph="CREATE TABLE... user_course_eval" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/mybatis.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/controller/GeneratorSqlmap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="17">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/mapper/UsersMapper.xml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="180" column="17" lean-forward="false" selection-start-line="180" selection-start-column="17" selection-end-line="180" selection-end-column="17" />
+        <state relative-caret-position="272">
+          <caret line="194" column="17" lean-forward="true" selection-start-line="194" selection-start-column="17" selection-end-line="194" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -797,160 +959,265 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/i18n/messages_zh_CN.properties" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/i18n/messages.properties" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/i18n/messages_en_US.properties" />
     <entry file="file://$PROJECT_DIR$/documents/jsp_project.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5678">
-          <caret line="334" column="44" lean-forward="false" selection-start-line="323" selection-start-column="2" selection-end-line="334" selection-end-column="44" />
+        <state relative-caret-position="127">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <marker date="1525531285835" expanded="true" signature="0:291" ph="/* Navicat M... " />
-            <marker date="1525531285835" expanded="true" signature="412:439" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="441:614" ph="CREATE TABLE... bank" />
-            <marker date="1525531285835" expanded="true" signature="800:834" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="836:1299" ph="CREATE TABLE... cash_record" />
-            <marker date="1525531285835" expanded="true" signature="1485:1512" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="1514:1728" ph="CREATE TABLE... city" />
-            <marker date="1525531285835" expanded="true" signature="1909:1938" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="1940:2673" ph="CREATE TABLE... course" />
-            <marker date="1525531285835" expanded="true" signature="2863:2899" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="2901:3370" ph="CREATE TABLE... exchange_code" />
-            <marker date="1525531285835" expanded="true" signature="3569:3607" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="3609:3939" ph="CREATE TABLE... exchange_record" />
-            <marker date="1525531285835" expanded="true" signature="4130:4158" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="4160:4541" ph="CREATE TABLE... forum" />
-            <marker date="1525531285835" expanded="true" signature="4724:4754" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="4756:5141" ph="CREATE TABLE... manager" />
-            <marker date="1525531285835" expanded="true" signature="5331:5366" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="5368:5627" ph="CREATE TABLE... money_record" />
-            <marker date="1525531285835" expanded="true" signature="5817:5847" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="5849:6376" ph="CREATE TABLE... new_msg" />
-            <marker date="1525531285835" expanded="true" signature="6564:6597" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="6599:6986" ph="CREATE TABLE... pay_record" />
-            <marker date="1525531285835" expanded="true" signature="7175:7206" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="7208:7396" ph="CREATE TABLE... province" />
-            <marker date="1525531285835" expanded="true" signature="7582:7612" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="7614:8122" ph="CREATE TABLE... section" />
-            <marker date="1525531285835" expanded="true" signature="8306:8335" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="8337:8636" ph="CREATE TABLE... syslog" />
-            <marker date="1525531285835" expanded="true" signature="8820:8850" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="8852:9455" ph="CREATE TABLE... teacher" />
-            <marker date="1525531285835" expanded="true" signature="9646:9682" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="9684:9915" ph="CREATE TABLE... teacher_grade" />
-            <marker date="1525531285835" expanded="true" signature="10104:10132" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="10134:10746" ph="CREATE TABLE... users" />
-            <marker date="1525531285835" expanded="true" signature="10938:10977" ph="DROP TABLE I... " />
-            <marker date="1525531285835" expanded="true" signature="10979:11392" ph="CREATE TABLE... user_course_eval" />
+            <marker date="1526048642370" expanded="true" signature="0:291" ph="/* Navicat M... " />
+            <marker date="1526048642370" expanded="true" signature="412:439" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="441:614" ph="CREATE TABLE... bank" />
+            <marker date="1526048642370" expanded="true" signature="800:834" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="836:1299" ph="CREATE TABLE... cash_record" />
+            <marker date="1526048642370" expanded="true" signature="1485:1512" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="1514:1728" ph="CREATE TABLE... city" />
+            <marker date="1526048642370" expanded="true" signature="1909:1938" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="1940:2673" ph="CREATE TABLE... course" />
+            <marker date="1526048642370" expanded="true" signature="2863:2899" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="2901:3370" ph="CREATE TABLE... exchange_code" />
+            <marker date="1526048642370" expanded="true" signature="3569:3607" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="3609:3939" ph="CREATE TABLE... exchange_record" />
+            <marker date="1526048642370" expanded="true" signature="4130:4158" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="4160:4541" ph="CREATE TABLE... forum" />
+            <marker date="1526048642370" expanded="true" signature="4724:4754" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="4756:5141" ph="CREATE TABLE... manager" />
+            <marker date="1526048642370" expanded="true" signature="5331:5366" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="5368:5627" ph="CREATE TABLE... money_record" />
+            <marker date="1526048642370" expanded="true" signature="5817:5847" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="5849:6376" ph="CREATE TABLE... new_msg" />
+            <marker date="1526048642370" expanded="true" signature="6564:6597" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="6599:6986" ph="CREATE TABLE... pay_record" />
+            <marker date="1526048642370" expanded="true" signature="7175:7206" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="7208:7396" ph="CREATE TABLE... province" />
+            <marker date="1526048642370" expanded="true" signature="7582:7612" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="7614:8122" ph="CREATE TABLE... section" />
+            <marker date="1526048642370" expanded="true" signature="8306:8335" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="8337:8636" ph="CREATE TABLE... syslog" />
+            <marker date="1526048642370" expanded="true" signature="8820:8850" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="8852:9455" ph="CREATE TABLE... teacher" />
+            <marker date="1526048642370" expanded="true" signature="9646:9682" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="9684:9915" ph="CREATE TABLE... teacher_grade" />
+            <marker date="1526048642370" expanded="true" signature="10104:10132" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="10134:10746" ph="CREATE TABLE... users" />
+            <marker date="1526048642370" expanded="true" signature="10938:10977" ph="DROP TABLE I... " />
+            <marker date="1526048642370" expanded="true" signature="10979:11392" ph="CREATE TABLE... user_course_eval" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com.gs/config/logback.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/mapper/UsersMapper.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/springmvc.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="865">
-          <caret line="57" column="8" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="54" lean-forward="false" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/config/spring-mybatis.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        <state relative-caret-position="127">
+          <caret line="55" column="31" lean-forward="false" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/CashRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           <folding>
-            <element signature="e#1076#1095#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/spring-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/dao/UsersDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/City.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UsersMapper.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Course.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="374">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/ExchangeCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/ExchangeRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Forum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/MoneyRecord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/NewMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/PayRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Syslog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/TeacherGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/UserCourseEval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Users.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="136">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/gs/test/testDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/dao/UsersDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/gs/testDemo/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Section.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gs/bean/Province.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JspProject:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="Copyright.UI">
         <settings>
           <splitter-proportions>
@@ -962,8 +1229,21 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>servlet-api</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -976,6 +1256,18 @@
       <state key="JdkListConfigurable.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2735632" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JspProject</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -999,6 +1291,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

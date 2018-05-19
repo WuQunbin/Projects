@@ -1,31 +1,48 @@
 package com.gs.bean;
 
+import java.io.Serializable;
 import java.math.BigDecimal;
+import java.sql.Timestamp;
 
 /**
- * @Author:伍群斌
- * @Description:
- * @Date:2018/5/5 22:47
+ * @author:伍群斌
+ * @description:
+ * @date :2018/5/19 12:05
  */
-public class Users{
-    private Integer userId;
+public class Users implements Serializable{
+    private Long userId;
     private String phone;
     private String password;
     private String userName;
-    private Integer sex;
+    private Byte sex;
     private String homeAddress;
     private String email;
-    private String registerData;
-    private Integer provinceId;
-    private Integer cityId;
-    private String userType;
+    private Timestamp registerData;
+    private Long provinceId;
+    private Long cityId;
+    private Long userType;
     private BigDecimal remainMoney;
 
-    public Integer getUserId() {
+    public Users(Long userId, String phone, String password, String userName, Byte sex, String homeAddress, String email, Timestamp registerData, Long provinceId, Long cityId, Long userType, BigDecimal remainMoney) {
+        this.userId = userId;
+        this.phone = phone;
+        this.password = password;
+        this.userName = userName;
+        this.sex = sex;
+        this.homeAddress = homeAddress;
+        this.email = email;
+        this.registerData = registerData;
+        this.provinceId = provinceId;
+        this.cityId = cityId;
+        this.userType = userType;
+        this.remainMoney = remainMoney;
+    }
+
+    public Long getUserId() {
         return userId;
     }
 
-    public void setUserId(Integer userId) {
+    public void setUserId(Long userId) {
         this.userId = userId;
     }
 
@@ -53,11 +70,11 @@ public class Users{
         this.userName = userName;
     }
 
-    public Integer getSex() {
+    public Byte getSex() {
         return sex;
     }
 
-    public void setSex(Integer sex) {
+    public void setSex(Byte sex) {
         this.sex = sex;
     }
 
@@ -77,35 +94,35 @@ public class Users{
         this.email = email;
     }
 
-    public String getRegisterData() {
+    public Timestamp getRegisterData() {
         return registerData;
     }
 
-    public void setRegisterData(String registerData) {
+    public void setRegisterData(Timestamp registerData) {
         this.registerData = registerData;
     }
 
-    public Integer getProvinceId() {
+    public Long getProvinceId() {
         return provinceId;
     }
 
-    public void setProvinceId(Integer provinceId) {
+    public void setProvinceId(Long provinceId) {
         this.provinceId = provinceId;
     }
 
-    public Integer getCityId() {
+    public Long getCityId() {
         return cityId;
     }
 
-    public void setCityId(Integer cityId) {
+    public void setCityId(Long cityId) {
         this.cityId = cityId;
     }
 
-    public String getUserType() {
+    public Long getUserType() {
         return userType;
     }
 
-    public void setUserType(String userType) {
+    public void setUserType(Long userType) {
         this.userType = userType;
     }
 
@@ -115,5 +132,23 @@ public class Users{
 
     public void setRemainMoney(BigDecimal remainMoney) {
         this.remainMoney = remainMoney;
+    }
+
+    @Override
+    public String toString() {
+        return "Users{" +
+                "userId=" + userId +
+                ", phone='" + phone + '\'' +
+                ", password='" + password + '\'' +
+                ", userName='" + userName + '\'' +
+                ", sex=" + sex +
+                ", homeAddress='" + homeAddress + '\'' +
+                ", email='" + email + '\'' +
+                ", registerData=" + registerData +
+                ", provinceId=" + provinceId +
+                ", cityId=" + cityId +
+                ", userType=" + userType +
+                ", remainMoney=" + remainMoney +
+                '}';
     }
 }
